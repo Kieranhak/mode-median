@@ -1,0 +1,14 @@
+n_num = [1, 2, 3, 4, 5] 
+n = len(n_num) #gets length of list
+  
+get_sum = sum(n_num) #adds numbers in list together 
+mean = get_sum / n #sum devided by list
+print(n_num) #prints list
+print("Mean of the above list of numbers is: " + str(round(mean,2))) #not too sure what end of this dose
+
+
+
+
+
+
+
